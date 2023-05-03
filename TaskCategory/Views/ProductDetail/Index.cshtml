@@ -1,0 +1,12 @@
+﻿@model IEnumerable<TaskCategory.Entity.Entities.Product>
+
+@foreach (var item in Model)
+{
+    <div>
+        <h3>Ürün Bilgileri</h3>
+        <ul>
+            <li><strong>Ürün Adı:</strong> @item.Name</li>
+            <li><strong>Ürün Fiyatı:</strong> @item.Price.ToString("C")</li>
+        </ul>
+    </div>
+}

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "TaskCategory.Entity/1.0.0": {
+        "dependencies": {
+          "TaskCategory.Core": "1.0.0"
+        },
+        "runtime": {
+          "TaskCategory.Entity.dll": {}
+        }
+      },
+      "TaskCategory.Core/1.0.0": {
+        "runtime": {
+          "TaskCategory.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TaskCategory.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TaskCategory.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

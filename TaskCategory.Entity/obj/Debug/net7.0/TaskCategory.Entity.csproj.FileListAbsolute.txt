@@ -1,0 +1,15 @@
+/Users/utkuozcan/Projects/TaskCategory/TaskCategory.Entity/bin/Debug/net7.0/TaskCategory.Entity.deps.json
+/Users/utkuozcan/Projects/TaskCategory/TaskCategory.Entity/bin/Debug/net7.0/TaskCategory.Entity.dll
+/Users/utkuozcan/Projects/TaskCategory/TaskCategory.Entity/bin/Debug/net7.0/TaskCategory.Entity.pdb
+/Users/utkuozcan/Projects/TaskCategory/TaskCategory.Entity/bin/Debug/net7.0/TaskCategory.Core.dll
+/Users/utkuozcan/Projects/TaskCategory/TaskCategory.Entity/bin/Debug/net7.0/TaskCategory.Core.pdb
+/Users/utkuozcan/Projects/TaskCategory/TaskCategory.Entity/obj/Debug/net7.0/TaskCategory.Entity.csproj.AssemblyReference.cache
+/Users/utkuozcan/Projects/TaskCategory/TaskCategory.Entity/obj/Debug/net7.0/TaskCategory.Entity.GeneratedMSBuildEditorConfig.editorconfig
+/Users/utkuozcan/Projects/TaskCategory/TaskCategory.Entity/obj/Debug/net7.0/TaskCategory.Entity.AssemblyInfoInputs.cache
+/Users/utkuozcan/Projects/TaskCategory/TaskCategory.Entity/obj/Debug/net7.0/TaskCategory.Entity.AssemblyInfo.cs
+/Users/utkuozcan/Projects/TaskCategory/TaskCategory.Entity/obj/Debug/net7.0/TaskCategory.Entity.csproj.CoreCompileInputs.cache
+/Users/utkuozcan/Projects/TaskCategory/TaskCategory.Entity/obj/Debug/net7.0/TaskCategory.Entity.csproj.CopyComplete
+/Users/utkuozcan/Projects/TaskCategory/TaskCategory.Entity/obj/Debug/net7.0/TaskCategory.Entity.dll
+/Users/utkuozcan/Projects/TaskCategory/TaskCategory.Entity/obj/Debug/net7.0/refint/TaskCategory.Entity.dll
+/Users/utkuozcan/Projects/TaskCategory/TaskCategory.Entity/obj/Debug/net7.0/TaskCategory.Entity.pdb
+/Users/utkuozcan/Projects/TaskCategory/TaskCategory.Entity/obj/Debug/net7.0/ref/TaskCategory.Entity.dll

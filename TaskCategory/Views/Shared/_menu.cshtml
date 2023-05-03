@@ -1,0 +1,14 @@
+@{
+    Repository _Repository = new Repository();
+    var modelCategory = _Repository.GetcategoryModels();
+}
+
+
+<div class="list-group">
+
+    @foreach (var item in modelCategory)
+    {
+        <a asp-action="Index" asp-controller="Product" asp-route-id="@item.Id"
+           class="list-group-item list-group-item-action" style="margin-inline:5px;">@item.Name</a>
+    }
+</div>
